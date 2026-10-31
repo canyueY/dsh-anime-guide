@@ -46,3 +46,8 @@ npm run check
 ## 许可
 
 AGPL-3.0-or-later
+
+
+---
+
+> **为什么还要开发 Mnemosyne？** [阅读全文 →](WHY_MNEMOSYNE.md)
